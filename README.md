@@ -1,7 +1,21 @@
-- 👋 Oi, eu sou @LeKoProjects
-- 👀 Tenho interesse em desenvolvimento full-stack, especialmente na criação de softwares para áreas clínicas e de notícias.
-- 🌱 Atualmente estou aprendendo técnicas avançadas de Laravel e aprofundando meus conhecimentos em frameworks JavaScript.
-- 💞️ Estou em busca de colaborar em projetos inovadores que me desafiem a crescer como desenvolvedor, especialmente em áreas como tecnologia para saúde e plataformas de notícias digitais.
-- 📫 Como me encontrar: Você pode me contatar via LinkedIn ou e-mail.
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Comecei a programar há apenas um ano e meio como autodidata, e agora estou cursando um Tecnólogo em Desenvolvimento de Sistemas na UNIFACS. Estou sempre com fome de aprendizado e pronto para novos desafios!
+# Hi 👋 I'm Leo!
+
+- 🌱 Atualmente aprendendo **React**
+- 👨‍💻 Todos os meus projetos estão disponíveis em [github.com/LeKoProjects](https://github.com/LeKoProjects)
+- 💬 Pergunte-me sobre **Laravel, JavaScript, desenvolvimento full-stack**
+- 📫 Como me encontrar: **softlekobusiness@gmail.com**
+- 👨🏼‍🎓 Cursando **Tecnólogo em Desenvolvimento de Sistemas na UNIFACS**
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
+
+## Languages and Tools:
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeKoProjects&layout=compact)
