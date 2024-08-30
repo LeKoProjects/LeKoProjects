@@ -1,0 +1,7 @@
+- 👋 Oi, eu sou @LeKoProjects
+- 👀 Tenho interesse em desenvolvimento full-stack, especialmente na criação de softwares para áreas clínicas e de notícias.
+- 🌱 Atualmente estou aprendendo técnicas avançadas de Laravel e aprofundando meus conhecimentos em frameworks JavaScript.
+- 💞️ Estou em busca de colaborar em projetos inovadores que me desafiem a crescer como desenvolvedor, especialmente em áreas como tecnologia para saúde e plataformas de notícias digitais.
+- 📫 Como me encontrar: Você pode me contatar via LinkedIn ou e-mail.
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Comecei a programar há apenas um ano e meio como autodidata, e agora estou cursando um Tecnólogo em Desenvolvimento de Sistemas na UNIFACS. Estou sempre com fome de aprendizado e pronto para novos desafios!
