@@ -1,4 +1,4 @@
-# Hi 👋 I'm Leo!
+# Olá 👋 Sou o Leo!
 
 - 🌱 Atualmente aprendendo **React**
 - 👨‍💻 Todos os meus projetos estão disponíveis em [github.com/LeKoProjects](https://github.com/LeKoProjects)
