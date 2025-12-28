@@ -40,8 +40,9 @@ Atualmente curso **Desenvolvimento de Sistemas na UNIFACS** e trabalho em projet
 
 ### 📈 Estatísticas do GitHub
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LekoProjetcs&locale=pt_BR" alt="GitHub Streak" /></a>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=LekoProjetcs&locale=pt_BR" />
+</p>
 ---
 
 ### 🌐 Onde me encontrar
