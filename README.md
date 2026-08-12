@@ -25,56 +25,14 @@ Atualmente curso **Desenvolvimento de Sistemas na UNIFACS** e trabalho em projet
 
 ### 📌 Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/LeKoProjects/Sistema-com-JWT">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeKoProjects&repo=Sistema-com-JWT&theme=default" />
-      </a>
-      <br />
-      Sistema de autenticação com <b>Laravel + JWT</b>: cadastro, login, verificação de sessão e logout, com rotas de API protegidas por token.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/LeKoProjects/NX-FullStack-Software-Engineer-Case-Study">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeKoProjects&repo=NX-FullStack-Software-Engineer-Case-Study&theme=default" />
-      </a>
-      <br />
-      <b>Scheduling System</b> — sistema de agendamento full stack, case study de engenharia de software.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/LeKoProjects/Star-Wars">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeKoProjects&repo=Star-Wars&theme=default" />
-      </a>
-      <br />
-      Catálogo de filmes consumindo a <b>SWAPI</b>, arquitetura MVC em PHP, log de interações em banco e criação automática de tabelas.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/LeKoProjects/GestorExcel">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeKoProjects&repo=GestorExcel&theme=default" />
-      </a>
-      <br />
-      Sistema em <b>Laravel</b> para gestão e manipulação de planilhas Excel.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/LeKoProjects/InfoSuportes">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeKoProjects&repo=InfoSuportes&theme=default" />
-      </a>
-      <br />
-      Aplicação <b>Laravel</b> institucional para gestão de suportes/atendimentos.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/LeKoProjects?tab=repositories">
-        📂 <b>Ver todos os repositórios →</b>
-      </a>
-      <br />
-      Mais projetos em PHP, Java e JavaScript disponíveis no perfil.
-    </td>
-  </tr>
-</table>
+| Projeto | Descrição |
+|---|---|
+| 🔐 [**Sistema-com-JWT**](https://github.com/LeKoProjects/Sistema-com-JWT) | Sistema de autenticação com **Laravel + JWT**: cadastro, login, verificação de sessão e logout, com rotas de API protegidas por token. |
+| 📅 [**NX-FullStack-Software-Engineer-Case-Study**](https://github.com/LeKoProjects/NX-FullStack-Software-Engineer-Case-Study) | **Scheduling System** — sistema de agendamento full stack, case study de engenharia de software. |
+| 🎬 [**Star-Wars**](https://github.com/LeKoProjects/Star-Wars) | Catálogo de filmes consumindo a **SWAPI**, arquitetura MVC em PHP, log de interações em banco e criação automática de tabelas. |
+| 📊 [**GestorExcel**](https://github.com/LeKoProjects/GestorExcel) | Sistema em **Laravel** para gestão e manipulação de planilhas Excel. |
+| 🛠️ [**InfoSuportes**](https://github.com/LeKoProjects/InfoSuportes) | Aplicação **Laravel** institucional para gestão de suportes/atendimentos. |
+| 📂 [**Ver todos os repositórios →**](https://github.com/LeKoProjects?tab=repositories) | Mais projetos em PHP, Java e JavaScript disponíveis no perfil. |
 
 ---
 
@@ -96,13 +54,15 @@ Atualmente curso **Desenvolvimento de Sistemas na UNIFACS** e trabalho em projet
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeKoProjects&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeKoProjects&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeKoProjects&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeKoProjects&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=LeKoProjects&theme=default&hide_border=true" />
 </p>
+
+> Se algum card acima não carregar, é instabilidade temporária do serviço público que gera essas imagens (comum em horários de pico) — não é um erro do seu perfil. Basta recarregar a página depois.
 
 ---
 
