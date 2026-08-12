@@ -54,15 +54,15 @@ Atualmente curso **Desenvolvimento de Sistemas na UNIFACS** e trabalho em projet
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeKoProjects&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeKoProjects&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=LeKoProjects&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LeKoProjects&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=LeKoProjects&theme=default&hide_border=true" />
 </p>
 
-> Se algum card acima não carregar, é instabilidade temporária do serviço público que gera essas imagens (comum em horários de pico) — não é um erro do seu perfil. Basta recarregar a página depois.
+> Se algum card acima não carregar, é instabilidade temporária do serviço público que gera essas imagens (rate limit da API do GitHub em horários de pico) — não é um erro do seu perfil. Basta recarregar a página depois de alguns minutos.
 
 ---
 
